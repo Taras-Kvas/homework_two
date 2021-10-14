@@ -1,0 +1,36 @@
+body, html {
+  background: silver;
+  scroll-behavior: smooth;
+}
+.target {
+  background: rebeccapurple;
+  text-align: justify;
+}
+img {
+  display: block;
+  border: 5px solid black;
+  border-radius: 10px;
+  box-shadow: 10px 5px 30px coral;
+}
+h1 {
+  text-align: center;
+}
+h1:hover {
+  color: cornflowerblue;
+}
+h2 {
+  text-align: center;
+}
+ul {
+  font-size: 20px;
+}
+li {
+  font-size: 15px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  color: darkblue;
+}
